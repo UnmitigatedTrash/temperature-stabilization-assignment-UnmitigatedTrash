@@ -8,10 +8,10 @@ All argments are the exact same:
    2. ./client `<id>` `<initialtemperature>`
 
 #### At execution
-![execution](./execution.png)
+![execution](./execution.PNG)
 
 #### Stabilized
-![stable](./stable.png)
+![stable](./stable.PNG)
 
 ### :warning: This is a Linux/Unix OS assignment. It is not an OS/161 Assignment
 
