@@ -1,5 +1,18 @@
 # Temperature stabilization using inter-process communication
 
+### Submisson
+My program is ran identically to the inital program.
+
+All argments are the exact same:
+   1. ./server
+   2. ./client `<id>` `<initialtemperature>`
+
+#### At execution
+![execution](./execution.png)
+
+#### Stabilized
+![stable](./stable.png)
+
 ### :warning: This is a Linux/Unix OS assignment. It is not an OS/161 Assignment
 
 This means that you will not write code for OS/161. Instead, you will write and test your code on a Linux or any Unix-based OS, e.g., the Linux environment that comes with your CSE4001 container or any Linux machine, AWS, Mac OS X (Terminal). 
